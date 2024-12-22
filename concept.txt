@@ -1,0 +1,135 @@
+1. Element Interactions Tests
+✅ 
+Test button click
+Check if clicking the "Click Me!" button changes the text inside an element (e.g., changes to "Button clicked!").
+
+✅ 
+Empty buttons
+Check if empty buttons exist on site
+
+[TBD]
+Invisible buttons
+Check if invisible buttons exist on site
+
+✅ 
+Test form input
+Enter text in a form field and click the "Submit" button. Then, check if the page shows the expected message.
+
+[TBD] tu w ogóle ogarnąć jak otworzyć formularz 
+Test form validation - empty field
+Check if submitting a form with an empty field shows the appropriate error message.
+
+Test contact form
+Test the contact form by submitting it and checking if the user receives the correct response.
+
+Test form reset button
+Check if the reset button clears all fields in the form.
+
+Test email validation
+Verify if the email field in a form correctly validates email format (contains "@" and proper structure).
+
+Test up/down arrow navigation
+Check if the up/down arrows on the page properly scroll the content up or down.
+
+2. Form Element Interactions Tests
+Test checkbox interaction
+Verify if clicking on a checkbox correctly toggles its state from checked to unchecked.
+
+Test radio button selection
+Check if selecting a radio button properly unselects other options in the same group.
+
+Test dropdown list selection
+Check if clicking a dropdown list displays options and selecting an option correctly updates the field value.
+
+Test form autocomplete
+Check if the autocomplete feature in a form (e.g., address form) works as expected.
+
+3. UI Tests (User Interface)
+Test element visibility
+Check if all the main elements (e.g., headers, buttons, forms) are visible on the page when it loads.
+
+Test page title
+Check if the page title is correct (e.g., "Testing Playground").
+
+Test element visibility after interaction
+Check if an element becomes visible after an interaction (e.g., after clicking a button).
+
+Test element hiding
+Check if clicking a button hides an element on the page.
+
+Test background color change
+Verify if clicking a button changes the background color of an element or the page.
+
+Test animation
+Verify if an animation on the page works correctly (e.g., a button animation or state change).
+
+4. Navigation and Link Tests
+Test links
+Verify if clicking on a link redirects the user to the correct page.
+
+Test navigation menu
+Check if the navigation menu works correctly and redirects to the proper page sections.
+
+Test invalid URL
+Check if visiting an invalid URL shows the expected error page (e.g., 404 error).
+
+Test link validity
+Check if all links on the page are valid by verifying the destination URLs after clicking on them.
+
+5. Modal and Interaction Tests
+Test modal interaction
+Check if clicking a button opens a modal, and if it can be closed by clicking the "Close" button.
+
+Test carousel functionality
+Verify if carousel elements (e.g., images) can be navigated and if the navigation arrows work properly.
+
+6. Cross-device and Responsiveness Tests
+Test mobile responsiveness
+Check how the page behaves on different screen sizes, particularly on mobile devices.
+
+Test scrolling
+Check if users can smoothly scroll up and down the page, ensuring all elements load correctly.
+
+7. Functional Tests
+Test add to cart functionality
+Check if clicking the "Add to cart" button adds an item to the shopping cart.
+
+Test login form
+Check if the login form works correctly by verifying that entering valid credentials logs the user in.
+
+Test registration form
+Check if the registration form works by verifying that submitting the form creates a new user.
+
+Test table sorting
+Verify if clicking on table headers correctly sorts the data in ascending or descending order.
+
+8. Blockers and Behavior Tests
+Test blocking elements
+Check if clicking the "Block" button on the page disables specific elements or functions.
+
+Test error message display
+Verify if an error message appears on the page when the user submits incorrect data in a form.
+
+9. Dynamic Elements and Scrolling Tests
+Test scrolling to an element
+Verify if the page scrolls smoothly to a specific element when required (e.g., scrolling to the footer).
+
+Test infinite scrolling
+Check if new content is loaded when scrolling down (dynamic content loading).
+
+10. Error and Edge Case Tests
+Test empty form submission
+Verify if submitting a form with empty fields triggers validation errors.
+
+Test server error (500)
+Check if the page shows a proper error message when the server fails (e.g., a 500 error).
+
+11. Other UI and Behavior Tests
+Test dark mode toggle
+Verify if a dark mode toggle works and changes the page's theme to dark mode.
+
+Test sticky header
+Check if the header on the page sticks to the top of the screen when scrolling down.
+
+Test page load time
+Check if the page loads within a reasonable amount of time (e.g., within 3 seconds).
