@@ -12,6 +12,9 @@ Invisible buttons
 Check if invisible buttons exist on site
 
 ✅ 
+✅ 
+✅ 
+
 Test form input
 Enter text in a form field and click the "Submit" button. Then, check if the page shows the expected message.
 
