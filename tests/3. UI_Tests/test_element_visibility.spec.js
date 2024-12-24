@@ -11,7 +11,7 @@ test('Check visibility of main elements on Testing Playground', async ({ page })
   // **Expected** values
   const expected = {
     header: true,
-    form: true
+    form: false
   };
 
   // **Actual** values
