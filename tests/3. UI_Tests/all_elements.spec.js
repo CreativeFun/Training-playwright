@@ -4,6 +4,8 @@ test('Check visibility of main elements on Testing Playground', async ({ page })
   // 1. Przejdź na stronę
   await page.goto('/');
 
+  // Wypisanie wszystkich elementów DOM
+  const elements = await page.$$('*'); // Pobiera wszystkie elementy na stronie
 
   for (let element of elements) {
     const tagName = await element.evaluate(el => el.tagName); // Pobieramy nazwę tagu
