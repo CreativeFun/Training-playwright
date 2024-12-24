@@ -11,17 +11,16 @@ test('Check visibility of main elements on Testing Playground', async ({ page })
   // **Expected** values
   const expected = {
     header: true,
-    form: false
+    form: true
   };
 
   // **Actual** values
   const actual = {
-    header:   await header.isVisible(), 
+    header: await header.isVisible(), 
     form: await form.isVisible(), 
   };
 
 
-  
   // **Logs**
   console.log('--- Form Analysis ---');
   for (const key in expected) {
