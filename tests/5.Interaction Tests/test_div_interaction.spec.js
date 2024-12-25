@@ -4,19 +4,20 @@ test('Check if clicking a button opens a modal, and if it can be closed by click
   // Going into testing playground
   await page.goto('/');
 
-  // Znajdź i kliknijxprzycisk, który otwiera modal
-  const openModalButton = page.locator('button:has-text("Show modal")');
+
+  const button = page.locator('button:has-text("expand")');
+  // Znajdź i kliknij przycisk, który otwiera modal
+  const openModalButton = page.locator('button:has-text("extend")');
   await openModalButton.click();
 
-  // Sprawdź, czy modal jest widoczny
-  const modal = page.locator('.modal'); // Dostosuj selektor do rzeczywistej klasy modala
+  // Poczekaj, aż modal stanie się widoczny
+  const modal = page.locator('.modal'); // Zmień selektor, jeśli to konieczne
   await expect(modal).toBeVisible();
 
-  // Znajdź i kliknij przycisk "Close" w modalu
+  // Znajdź i kliknij przycisk "Close"
   const closeButton = modal.locator('button:has-text("Close")');
   await closeButton.click();
 
   // Sprawdź, czy modal jest niewidoczny
   await expect(modal).not.toBeVisible();
-
 });
