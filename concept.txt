@@ -45,6 +45,7 @@ Test form autocomplete
 Check if the autocomplete feature in a form (e.g., address form) works as expected.
 
 3. UI Tests (User Interface)
+✅ 
 Test element visibility
 Check if all the main elements (e.g., headers, buttons, forms) are visible on the page when it loads.
 
