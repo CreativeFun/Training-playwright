@@ -1,0 +1,2 @@
+utworzyc folder utils
+przeniesc all_element_spec do folderu utils

@@ -1,0 +1,3257 @@
+[
+  {
+    "tagName": "HTML",
+    "textContent": "Testing Playground\n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n\n    \n\n    \n\n    \n    \n    \n    \n\n    \n    \n\n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n\n    \n      window.global = {};\n    \n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      gtag('js', new Date());\n      gtag('config', 'UA-166958850-1');\n    \n    \n    \n    \n    \n  \n\n  \n    ️ Testing Playground@meijer_s️ Playground️ Run️ Settings34        I accept the <a href=\"https://www.example.com\"> terms and conditions</a> 1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>accessible roles: genericQueryEvents6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')> undefined\n    You need JavaScript to run this app.\n    \n    \n  \n\nNewSaveForkShareEmbedBehaviorAuto-run codeTesting-Librarytest-id attribute:GitHubSupport UsTwitterChrome ExtensionIntroductionQuery PriorityCommon Mistakes",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "HEAD",
+    "textContent": "Testing Playground\n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n\n    \n\n    \n\n    \n    \n    \n    \n\n    \n    \n\n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n\n    \n      window.global = {};\n    \n\n    \n    \n    \n      window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      gtag('js', new Date());\n      gtag('config', 'UA-166958850-1');",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "TITLE",
+    "textContent": "Testing Playground",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/57-production-81eebc57.png"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/60-production-ba8c7b45.png"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/72-production-f64aa648.png"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/76-production-1b865a9a.png"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/114-production-6e28fa68.png"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/120-production-04f9694a.png"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/144-production-217c933b.png"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/152-production-7b61a783.png"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/180-production-f62e3b52.png"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/310-production-5a91b17b.png"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/192-production-b3812da3.png"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/96-production-5f20ab77.png"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/48-production-7aced52f.png"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAASAAAAEgARslrPgAACDxJREFUWMPllWuMXVUVx39r733OvXPnzqvTaTttp0OlhXZKX0iKVAFLgSpUUBrBxEaFFPjgM0A0RMMHNIqhECOfiEUTrEHkoWikCTSEEkBeoa04fQF9DO3QmT6mc2fu7b337LOXH+4824rxsyvZuWffc876/85ae/83/L+HnOvPDZsWAUTAFCBSZaBcTotxbPjdnbs+MeGtj3bhvRLHJi9CM5AAJwC/aUP3JwNs2LQIgTjAV4KyTqBLhKwYepyVbZHjt6p8dLqsPHZGslt/s4j6OkGEzsRzm0/1Cg10qHJaodsITxn4q0IyEUTOEM8EuNcJdy1upmFhS4QzwvFywo6CUgjmZWfle6DvPfTV9yYB3P2nxSCy3Kf6SLM1n13W5JgSB5KkyK4BT/dQtuBVHjTwoEJlFEImlByF2zNGf7V2tsutnNrMgZ4MhaKy4LyEYjTAc32e3sT9ObJymzEkIyVGlVMhECepbu7IRtfdOHMqcSli3/4yTfVDdLb38urxKlv6p5QqwWwQeAJg04Zu3ISPaFZl/YpWzX2mpYGnXungL1tLHO3pZ8H5ET/8ZiPXzjjGM8ftdYnIZiPkEWYBinJYDMU6Z1avaZ/KySMtPL61jjde78FqxA1XtHHblz7kSHko9+ZA8wYr+jwwCGBG1RUWOKNLLmoRXn3H8tw2qKYRPlV27E74w/OG2VborKtkrJPrnZMrnZV5zsp852SVtaydUx9n2qM8Tzxf4oMjDhVLYTjw5It1vLsrx9KmYSITLlZYOKo7sQKtkWgubwPvH0o5tPcQzoKIYA3sPxyollOanMeqYEUnL2cjtMRCUg4cODjMoYMnMALGCEkiHBuwdEYJkWguVWkde21CimNepTiUVFjQWSGOIISaSBpgXocnjosMY7EWrJXJw8BQSIjiYea0C2k6UlmFOApMaylzMonwaorAsbMBlD1BzLu7CsplS/v52poK+RxYC5/uSlm/pp9eTenXHM6AMYyA1K6dFfrSQJ8/zvrryyxfULvXUB/4+pqjLF9Y4F/FRlKRt1H2TGqBtUImQyHxvLGzmF/dnhtgw5cPsWp5jkJRWHBeiUre81K1DW8s1oCcYWGq4IPwWjHhqo5efvndwN79gaZciblzhnnzdAu7S3kix1aXkUK1OuIDtz92EdaCIp+zJjyalEtdzc1ZuhordNSVyVgoBMfB0MCwiXEj4ucCUAWfQoNW6bRDNEqVshd6ynXsKWQ5euQ4cV1+Z5StvwP0Le8Vp6qkqTm/UipsVF/pyjfVU00C+yoNHNBGIgfGCs6AlXHxGoCM9W80rIFCGrOj2koaFO8hSZSAJ87EAEuD6sbU67dE2G/EilEN30nKpUtLhVOk3nO8t59ysYgVaisZPUO4Jn42SG1uBIwoBsZyFE6cwkYRxkBSLl8uIncgKkYTpgOrxBiy9fXkGvK0TJuCc25S0kkHiBkZUtOeNJ/4nIz7vYtdrUcoISSAfoHUzHBXty4vvfxWb6HkoW1+io0M2bp6nBvPphO2fKUodL/gyLfCBZd7APZucxQHYNG1nqhOz/le45QmkkQpFWD4kKUjM73w+RUzS+6Wm749NPXk33o2v9DN7u5eps0LTO/ytMxUiHSsvKojnRbI1EOU1TGBOKf4pHZvdDGOVUCUkEKh13J0l+XYB4YLm2dzwzVdH65au35I+l/5Nan3Pz/UV7z30ad38M6uj6lrUlrnBqbOTWlfGGicHogyte1qZLzcGsZbolqbB4U0VZIKDB41fLzbcvyA4eRBQ3lQWLF4FneuW0rHtNw9iHlIPnpxI4pelclknj1ZSJqe3rqHLa++T2GoinVCrkVp7UxpalfaPhVomRWoa1JsNN5jVUgTOD0onDxsOLbfMNhrONljKJ0SUq80NWRYe+UF3LT6Qprr7WClUr1RRLZJzwsPEkLIRnG8OZPJrBNj2b63n7+/so9/7OyhWEpQrZ0JUVbJtyit0wMNTYHRdeo9DA0aThw1DA0YkkqNSgTy9TErl81h7RUXsGR+Gxo8lUr199VK5XZrbUUAjrz0MBp0lYvc5ijOzMxmMlS9snNfH+9097L9vR5mnjpFp3pyBBpUyaBjB1KqQhlhWIQihoPi6Gtp4eIlc7hk0UwWz5tG7IRypUK1UjmSen+ziLw+a/VdNSsOaaD/2NGXZ8yY9YAkyQMVkVwUxVy2tIPLlnUyVFhG9PEJosFhdGAYHRiCYrlmewDOQn0WmdKANOdJmvP4Ga3kG+tAA9VqlUqlik+SUgjhZ2+/+drrl6xYObZFATi89SGChoxz0Q+ccz92LmpwkcNZh3EOYy0igiC149Gntd9R+3MWrEFRVJWQpqTek6Yen3i8Twre+58mSfURY2yl4+q7JwMAfLT1ITSEyEXRzdbaB5xzs61zWOuw1iJiECM1kFEXGrFi1ZERFNVAmqakqSf1Hu99T5qmP0qS5BlrTDJ7RPwsAICeFzfy9p7tXNp18XpjzMPORW3WOayxGGsxRmogZ9heDSAQQiCk4wDeJ30hhO+3NbU92TfQz5xr7pnslpwjDmz5BSEE41x0gxi531q7eLQKxtjxKoya1GgFQg0gHSt/ukNVf5Ik1S3W2jD3i/eepXVOAIBdT99HQ0sj1XJlgYj5hhi5xRgz1xgrxpiRNoz7QO3rlRDSENKwX1X/qBoej+L4/aHCEIvW3X9Onf8IMAby7H0kPpVsJp5vjFkpIhcBS0SkHciNPFZS1V7gn6raHUJ4rVwufxBFkXbddP8n5v+vABNj++a7CWkqdfX5rLG2AciOtOC0pmG4VBwuW+t0+fqN/0va//P4NwTw6xd3CM8EAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTA2LTEyVDEyOjU0OjMyKzAwOjAwDbnNDgAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wNi0xMlQxMjo1NDozMiswMDowMHzkdbIAAABGdEVYdHNvZnR3YXJlAEltYWdlTWFnaWNrIDYuNy44LTkgMjAxNC0wNS0xMiBRMTYgaHR0cDovL3d3dy5pbWFnZW1hZ2ljay5vcmfchu0AAAAAGHRFWHRUaHVtYjo6RG9jdW1lbnQ6OlBhZ2VzADGn/7svAAAAGHRFWHRUaHVtYjo6SW1hZ2U6OmhlaWdodAAxOTIPAHKFAAAAF3RFWHRUaHVtYjo6SW1hZ2U6OldpZHRoADE5MtOsIQgAAAAZdEVYdFRodW1iOjpNaW1ldHlwZQBpbWFnZS9wbmc/slZOAAAAF3RFWHRUaHVtYjo6TVRpbWUAMTU5MTk2NjQ3MqnY97oAAAAPdEVYdFRodW1iOjpTaXplADBCQpSiPuwAAABWdEVYdFRodW1iOjpVUkkAZmlsZTovLy9tbnRsb2cvZmF2aWNvbnMvMjAyMC0wNi0xMi8zYTNlZjRhYzJlZDk3NjhhM2JmYjI3YTVmNjgzZDJiYy5pY28ucG5n9+B26wAAAABJRU5ErkJggg=="
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAexQTFRFAAAAYJsrX5ooZ6UuZ6QrX5sqYJssZJwrg6YogqUjvrodvrgTb6Mpb6Io6MGR4LiJ68SV4LmJ27OD47yM2rKCW5kqbKAqcaMqZqIsYagzYacsZqEqW5ktXZkqiaotnrUtd68tfbUvd68un7g4iacjXZoscqIpkrssgbkwgLgvkr0zcqIne6Yoe6Ula6Irp7Ejpq4aaqAqYZkmYZUfY5kkZqAvYJQoW44XY5kjYpYqi4pYXnI6X3M8jIpY5LuOsJN4r5N45LqO5LyL68SU5LyL5r6P7caW57+Q6cKT4bqK47yM5r+P6cKT47yM169/27SE3bWF3raGsbA3s643tLA8sKwps640bWVQTkQ/sqEyt6xOWlRQX1A1sKYar6EuPDY/LSk8oIstn8Iqhr4xhr4wn8Q0opFELyw/OjI4rpwYnYcpkXoqvLghkMMvjMQxjMMxkMMxvbwwkXssnYUeb6IjnLolqMElksIujcUxj8cxnLokbqAiaZ4geLArhL0xi8MxjcIxj8Uye7QuaZ8hY44ve7Avh78weaMzf6wzh74wYo4uWFJMRFE3W3g0cp4zf7Iyh70xXHg02LWPlH5wWk1RZENBg085lFw2882e68ac7rSQ9KOE9Zl878iZ9M+h99Ol+NSm78ia68SV////loxhbwAAAFJ0Uk5TAAAAAAAAAAAAAAAAAAAAAAAAAAAAIGlzMQEBMSAkyOBJFkngyCR65NjY5HqPj1/9/V8TqKgTbfr6bXb+/nZC7u5CC6gKKsknvyGZ6f6aBi5feiPRGbkAAAABYktHRKPH2u8aAAAACXBIWXMAAABIAAAASABGyWs+AAAA+klEQVQY02NgQAeMTKJi4hKSzCxS0uJiMqxsDOyyckHB8gqKikrKIaEqquwMHGph4RGR6hqaWlHRMbHanAxcOnHxCYlJySmpaekZmbrcDDx6+lnZObl5+QWFRcUGhrwMRsYlpWXlFZWVFeVlVdUmpgxm5jW1dfUNjY0N9XVNzRaWDFbWLa1tFe0dHe0Vna1dNrYMdvbdPb19/RMm9PdN7Ol2cGRwcp40ecrUadOnT5s6ZfIkZxcGPle3GTNnzZ4zZ/asmTPcXPkY+AXcPebOm79gwfx5Cz3cBQQZGISEPb28fRYt8vH29RQWAvtPxM8/IDAwwN9PhAELAAA52Unbt5UK7AAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wNi0xMlQxMjo1NDozMiswMDowMA25zQ4AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDYtMTJUMTI6NTQ6MzIrMDA6MDB85HWyAAAARnRFWHRzb2Z0d2FyZQBJbWFnZU1hZ2ljayA2LjcuOC05IDIwMTQtMDUtMTIgUTE2IGh0dHA6Ly93d3cuaW1hZ2VtYWdpY2sub3Jn3IbtAAAAABh0RVh0VGh1bWI6OkRvY3VtZW50OjpQYWdlcwAxp/+7LwAAABh0RVh0VGh1bWI6OkltYWdlOjpoZWlnaHQAMTkyDwByhQAAABd0RVh0VGh1bWI6OkltYWdlOjpXaWR0aAAxOTLTrCEIAAAAGXRFWHRUaHVtYjo6TWltZXR5cGUAaW1hZ2UvcG5nP7JWTgAAABd0RVh0VGh1bWI6Ok1UaW1lADE1OTE5NjY0NzKp2Pe6AAAAD3RFWHRUaHVtYjo6U2l6ZQAwQkKUoj7sAAAAVnRFWHRUaHVtYjo6VVJJAGZpbGU6Ly8vbW50bG9nL2Zhdmljb25zLzIwMjAtMDYtMTIvM2EzZWY0YWMyZWQ5NzY4YTNiZmIyN2E1ZjY4M2QyYmMuaWNvLnBuZ/fgdusAAAAASUVORK5CYII="
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/manifest.json"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/oembed?url=http%3A%2F%2Ftesting-playground.com&format=json"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "META",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SCRIPT",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SCRIPT",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SCRIPT",
+    "textContent": "window.global = {};",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SCRIPT",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SCRIPT",
+    "textContent": "window.dataLayer = window.dataLayer || [];\n      function gtag() {\n        dataLayer.push(arguments);\n      }\n      gtag('js', new Date());\n      gtag('config', 'UA-166958850-1');",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SCRIPT",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/event-map-b11e0c7d.js"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/event-map-e6d4ef0c.css"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/index-186f7d81.css"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/Playground-6caf52c7.js"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/Embedded-5ad7fd43.js"
+  },
+  {
+    "tagName": "LINK",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/assets/parser-0a05f4d2.js"
+  },
+  {
+    "tagName": "BODY",
+    "textContent": "️ Testing Playground@meijer_s️ Playground️ Run️ Settings34        I accept the <a href=\"https://www.example.com\"> terms and conditions</a> 1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>accessible roles: genericQueryEvents6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')> <button\n  type=\"submit\"\n>\n  Submit\n</button>suggested query> getByRole('button', { name: /submit/i })There is one thing though. You could make the query a bit more specific by adding the name option.1. Queries Accessible to EveryoneRolebuttonLabelTextn/aPlaceholderTextn/aTextsubmitDisplayValuen/a2. Semantic QueriesAltTextn/aTitlen/a3. Test IDsTestIdn/a\n    You need JavaScript to run this app.\n    \n    \n  \n\nNewSaveForkShareEmbedBehaviorAuto-run codeTesting-Librarytest-id attribute:GitHubSupport UsTwitterChrome ExtensionIntroductionQuery PriorityCommon Mistakes",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "️ Testing Playground@meijer_s️ Playground️ Run️ Settings34        I accept the <a href=\"https://www.example.com\"> terms and conditions</a> 1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>accessible roles: genericQueryEvents6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')> <button\n  type=\"submit\"\n>\n  Submit\n</button>suggested query> getByRole('button', { name: /submit/i })There is one thing though. You could make the query a bit more specific by adding the name option.1. Queries Accessible to EveryoneRolebuttonLabelTextn/aPlaceholderTextn/aTextsubmitDisplayValuen/a2. Semantic QueriesAltTextn/aTitlen/a3. Test IDsTestIdn/a",
+    "className": "Brak klasy",
+    "id": "app",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "️ Testing Playground@meijer_s️ Playground️ Run️ Settings34        I accept the <a href=\"https://www.example.com\"> terms and conditions</a> 1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>accessible roles: genericQueryEvents6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')> <button\n  type=\"submit\"\n>\n  Submit\n</button>suggested query> getByRole('button', { name: /submit/i })There is one thing though. You could make the query a bit more specific by adding the name option.1. Queries Accessible to EveryoneRolebuttonLabelTextn/aPlaceholderTextn/aTextsubmitDisplayValuen/a2. Semantic QueriesAltTextn/aTitlen/a3. Test IDsTestIdn/a",
+    "className": "flex h-screen flex-col",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "️ Testing Playground@meijer_s️ Playground️ Run️ Settings",
+    "className": "mb-8 flex-none",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "NAV",
+    "textContent": "️ Testing Playground@meijer_s️ Playground️ Run️ Settings",
+    "className": "h-16 w-full text-white",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "️ Testing Playground@meijer_s️ Playground️ Run️ Settings",
+    "className": "grid h-16 grid-cols-2 items-center bg-gray-900 px-8",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "️ Testing Playground@meijer_s",
+    "className": "flex h-full flex-shrink-0 items-center justify-between space-x-8 pr-4 text-white",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "A",
+    "textContent": "️ Testing Playground",
+    "className": "title",
+    "id": "Brak ID",
+    "href": "https://testing-playground.com/"
+  },
+  {
+    "tagName": "H1",
+    "textContent": "️ Testing Playground",
+    "className": "flex items-center justify-start space-x-4 text-xl font-light tracking-tight",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "IMG",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "Testing Playground",
+    "className": "hidden md:block",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "@meijer_s",
+    "className": "flex items-center gap-2",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "A",
+    "textContent": "@meijer_s",
+    "className": "group flex items-center space-x-2 rounded-md px-2 py-1 text-sm text-white no-underline",
+    "id": "Brak ID",
+    "href": "https://go.meijer.ws/twitter"
+  },
+  {
+    "tagName": "svg",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "path",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "path",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "@meijer_s",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "️ Playground️ Run️ Settings",
+    "className": "relative flex h-full items-center justify-end text-sm",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "BUTTON",
+    "textContent": "️ Playground",
+    "className": "space-x-2 px-4 text-sm",
+    "id": "menu-button--menu--1",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "svg",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "path",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "Playground",
+    "className": "hidden sm:block",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "BUTTON",
+    "textContent": "️ Run",
+    "className": "space-x-4 px-4",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "svg",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "path",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "Run",
+    "className": "hidden sm:block",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "BUTTON",
+    "textContent": "️ Settings",
+    "className": "space-x-2 px-4 text-sm",
+    "id": "menu-button--menu--2",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "svg",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "path",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "Settings",
+    "className": "hidden sm:block",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "BUTTON",
+    "textContent": "",
+    "className": "space-x-2 px-4 text-sm",
+    "id": "menu-button--menu--3",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "svg",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "path",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "34        I accept the <a href=\"https://www.example.com\"> terms and conditions</a> 1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>accessible roles: genericQueryEvents6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')> <button\n  type=\"submit\"\n>\n  Submit\n</button>suggested query> getByRole('button', { name: /submit/i })There is one thing though. You could make the query a bit more specific by adding the name option.1. Queries Accessible to EveryoneRolebuttonLabelTextn/aPlaceholderTextn/aTextsubmitDisplayValuen/a2. Semantic QueriesAltTextn/aTitlen/a3. Test IDsTestIdn/a",
+    "className": "flex-grow flex-shrink relative mb-8 px-8 md:h-0",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "fade absolute left-0 top-0 flex h-full h-full w-full w-full flex-col items-center justify-center space-y-4 hidden opacity-0",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "IMG",
+    "textContent": "",
+    "className": "opacity-50",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "34        I accept the <a href=\"https://www.example.com\"> terms and conditions</a> 1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>accessible roles: genericQueryEvents6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')> <button\n  type=\"submit\"\n>\n  Submit\n</button>suggested query> getByRole('button', { name: /submit/i })There is one thing though. You could make the query a bit more specific by adding the name option.1. Queries Accessible to EveryoneRolebuttonLabelTextn/aPlaceholderTextn/aTextsubmitDisplayValuen/a2. Semantic QueriesAltTextn/aTitlen/a3. Test IDsTestIdn/a",
+    "className": "fade flex h-auto w-full flex-col md:h-full opacity-100",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "34        I accept the <a href=\"https://www.example.com\"> terms and conditions</a> 1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>accessible roles: generic",
+    "className": "editor flex-auto grid-cols-1 gap-4 p-4 md:h-56 md:grid-cols-2 md:gap-8",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "34        I accept the <a href=\"https://www.example.com\"> terms and conditions</a> 1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>",
+    "className": "relative h-56 flex-auto md:h-full",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "34        I accept the <a href=\"https://www.example.com\"> terms and conditions</a> 1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>",
+    "className": "flex h-full w-full flex-col",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "34        I accept the <a href=\"https://www.example.com\"> terms and conditions</a> 1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>",
+    "className": "markup-editor relative flex-auto overflow-hidden",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "34        I accept the <a href=\"https://www.example.com\"> terms and conditions</a> 1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>",
+    "className": "h-full w-full",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "TEXTAREA",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "34        I accept the <a href=\"https://www.example.com\"> terms and conditions</a> 1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>",
+    "className": "CodeMirror cm-s-dracula CodeMirror-simplescroll",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "TEXTAREA",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "CodeMirror-simplescroll-horizontal",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "CodeMirror-simplescroll-vertical",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "CodeMirror-scrollbar-filler",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "CodeMirror-gutter-filler",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "34        I accept the <a href=\"https://www.example.com\"> terms and conditions</a> 1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>",
+    "className": "CodeMirror-scroll",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "34        I accept the <a href=\"https://www.example.com\"> terms and conditions</a> 1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>",
+    "className": "CodeMirror-sizer",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "34        I accept the <a href=\"https://www.example.com\"> terms and conditions</a> 1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "34        I accept the <a href=\"https://www.example.com\"> terms and conditions</a> 1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>",
+    "className": "CodeMirror-lines",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "34        I accept the <a href=\"https://www.example.com\"> terms and conditions</a> 1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "34",
+    "className": "CodeMirror-measure",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "34",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "34",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "I accept the <a href=\"https://www.example.com\"> terms and conditions</a>",
+    "className": "CodeMirror-measure",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "I accept the <a href=\"https://www.example.com\"> terms and conditions</a>",
+    "className": "CodeMirror-line",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "I accept the <a href=\"https://www.example.com\"> terms and conditions</a>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "<",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "a",
+    "className": "cm-tag",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "href",
+    "className": "cm-attribute",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "\"https://www.example.com\"",
+    "className": "cm-string",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": ">",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "</",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "a",
+    "className": "cm-tag",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": ">",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "CodeMirror-cursors",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "CodeMirror-cursor",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "1<form>2  <div>3    <label for=\"email\">Email address</label>4    <input5      type=\"email\"6      id=\"email\"7      aria-describedby=\"email-help\"8      placeholder=\"Enter email\"9    />10    <small id=\"email-help\">It's safe with us. We hate spam!</small>11  </div>12  <div>13    <label for=\"password\">Password</label>14    <input15      type=\"password\"16      id=\"password\"17      placeholder=\"Password\"18    />19  </div>",
+    "className": "CodeMirror-code",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "1<form>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "1",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "1",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "<form>",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "<form>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "<",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "form",
+    "className": "cm-tag",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": ">",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "2  <div>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "2",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "2",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "<div>",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "<div>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "<",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "div",
+    "className": "cm-tag",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": ">",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "3    <label for=\"email\">Email address</label>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "3",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "3",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "<label for=\"email\">Email address</label>",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "<label for=\"email\">Email address</label>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "<",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "label",
+    "className": "cm-tag",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "for",
+    "className": "cm-attribute",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "\"email\"",
+    "className": "cm-string",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": ">",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "</",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "label",
+    "className": "cm-tag",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": ">",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "4    <input",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "4",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "4",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "<input",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "<input",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "<",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "input",
+    "className": "cm-tag",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "5      type=\"email\"",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "5",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "5",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "type=\"email\"",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "type=\"email\"",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "type",
+    "className": "cm-attribute",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "\"email\"",
+    "className": "cm-string",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6      id=\"email\"",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "id=\"email\"",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "id=\"email\"",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "id",
+    "className": "cm-attribute",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "\"email\"",
+    "className": "cm-string",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "7      aria-describedby=\"email-help\"",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "7",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "7",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "aria-describedby=\"email-help\"",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "aria-describedby=\"email-help\"",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "aria-describedby",
+    "className": "cm-attribute",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "\"email-help\"",
+    "className": "cm-string",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "8      placeholder=\"Enter email\"",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "8",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "8",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "placeholder=\"Enter email\"",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "placeholder=\"Enter email\"",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "placeholder",
+    "className": "cm-attribute",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "\"Enter email\"",
+    "className": "cm-string",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "9    />",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "9",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "9",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "/>",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "/>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "/>",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "10    <small id=\"email-help\">It's safe with us. We hate spam!</small>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "10",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "10",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "<small id=\"email-help\">It's safe with us. We hate spam!</small>",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "<small id=\"email-help\">It's safe with us. We hate spam!</small>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "<",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "small",
+    "className": "cm-tag",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "id",
+    "className": "cm-attribute",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "\"email-help\"",
+    "className": "cm-string",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": ">",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "</",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "small",
+    "className": "cm-tag",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": ">",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "11  </div>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "11",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "11",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "</div>",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "</div>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "</",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "div",
+    "className": "cm-tag",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": ">",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "12  <div>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "12",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "12",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "<div>",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "<div>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "<",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "div",
+    "className": "cm-tag",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": ">",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "13    <label for=\"password\">Password</label>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "13",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "13",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "<label for=\"password\">Password</label>",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "<label for=\"password\">Password</label>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "<",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "label",
+    "className": "cm-tag",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "for",
+    "className": "cm-attribute",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "\"password\"",
+    "className": "cm-string",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": ">",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "</",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "label",
+    "className": "cm-tag",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": ">",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "14    <input",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "14",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "14",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "<input",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "<input",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "<",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "input",
+    "className": "cm-tag",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "15      type=\"password\"",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "15",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "15",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "type=\"password\"",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "type=\"password\"",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "type",
+    "className": "cm-attribute",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "\"password\"",
+    "className": "cm-string",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "16      id=\"password\"",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "16",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "16",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "id=\"password\"",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "id=\"password\"",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "id",
+    "className": "cm-attribute",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "\"password\"",
+    "className": "cm-string",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "17      placeholder=\"Password\"",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "17",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "17",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "placeholder=\"Password\"",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "placeholder=\"Password\"",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "placeholder",
+    "className": "cm-attribute",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "\"Password\"",
+    "className": "cm-string",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "18    />",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "18",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "18",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "/>",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "/>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "/>",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "19  </div>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "19",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "19",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "</div>",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "</div>",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "</",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "div",
+    "className": "cm-tag",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": ">",
+    "className": "cm-tag cm-bracket",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "CodeMirror-gutters",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "CodeMirror-gutter CodeMirror-linenumbers",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "accessible roles: generic",
+    "className": "h-56 flex-auto md:h-full",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "accessible roles: generic",
+    "className": "relative flex h-full w-full flex-col",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "IFRAME",
+    "textContent": "",
+    "className": "flex-auto",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SECTION",
+    "textContent": "accessible roles: generic",
+    "className": "flex w-full flex-none justify-between px-4 py-2 collapsed items-center rounded fle bg-gray-200 font-mono text-xs text-gray-800",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "accessible roles: generic",
+    "className": "truncate direction mr-8 flex w-full justify-between",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "accessible roles: generic",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "accessible roles:",
+    "className": "font-bold",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "BUTTON",
+    "textContent": "",
+    "className": "pointer focus:outline-none flex inline-flex items-center justify-center rounded-full text-gray-500 hover:text-gray-700 bg-inherit",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "svg",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "path",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "QueryEvents",
+    "className": "flex h-8 gap-4 px-4 pb-1 pt-3",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "QueryEvents",
+    "className": "flex items-center",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "QueryEvents",
+    "className": "space-x-2 text-left",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "BUTTON",
+    "textContent": "Query",
+    "className": "select-none border-b-2 text-xs hover:border-blue-400 hover:text-blue-400 border-blue-600 text-blue-600",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "BUTTON",
+    "textContent": "Events",
+    "className": "select-none border-b-2 text-xs hover:border-blue-400 hover:text-blue-400 border-transparent text-gray-800",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')> <button\n  type=\"submit\"\n>\n  Submit\n</button>suggested query> getByRole('button', { name: /submit/i })There is one thing though. You could make the query a bit more specific by adding the name option.1. Queries Accessible to EveryoneRolebuttonLabelTextn/aPlaceholderTextn/aTextsubmitDisplayValuen/a2. Semantic QueriesAltTextn/aTitlen/a3. Test IDsTestIdn/a",
+    "className": "editor flex-auto grid-cols-1 gap-4 p-4 md:h-56 md:grid-cols-2 md:gap-8",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')> <button\n  type=\"submit\"\n>\n  Submit\n</button>",
+    "className": "relative h-56 flex-auto md:h-full",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')> <button\n  type=\"submit\"\n>\n  Submit\n</button>",
+    "className": "relative flex h-full w-full flex-col",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')",
+    "className": "query-editor relative flex-auto",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')",
+    "className": "flex h-full w-full flex-col",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')",
+    "className": "h-full w-full",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "TEXTAREA",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')",
+    "className": "CodeMirror cm-s-dracula CodeMirror-simplescroll",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "TEXTAREA",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "CodeMirror-simplescroll-horizontal",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "CodeMirror-simplescroll-vertical",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "CodeMirror-scrollbar-filler",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "CodeMirror-gutter-filler",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')",
+    "className": "CodeMirror-scroll",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')",
+    "className": "CodeMirror-sizer",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')",
+    "className": "CodeMirror-lines",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6 1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6",
+    "className": "CodeMirror-measure",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "CodeMirror-measure",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "CodeMirror-cursors",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "CodeMirror-cursor",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "1// Query your elements here, preferably with 2// `screen.getBy…(…)`. If you can't use3// screen use `container.querySelector(…)`.4​5// container.querySelector('input')6screen.getByRole('button')",
+    "className": "CodeMirror-code",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "1// Query your elements here, preferably with",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "1",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "1",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "// Query your elements here, preferably with",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "// Query your elements here, preferably with",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "// Query your elements here, preferably with",
+    "className": "cm-comment",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "2// `screen.getBy…(…)`. If you can't use",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "2",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "2",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "// `screen.getBy…(…)`. If you can't use",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "// `screen.getBy…(…)`. If you can't use",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "// `screen.getBy…(…)`. If you can't use",
+    "className": "cm-comment",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "3// screen use `container.querySelector(…)`.",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "3",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "3",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "// screen use `container.querySelector(…)`.",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "// screen use `container.querySelector(…)`.",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "// screen use `container.querySelector(…)`.",
+    "className": "cm-comment",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "4​",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "4",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "4",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "​",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "​",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "​",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "5// container.querySelector('input')",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "5",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "5",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "// container.querySelector('input')",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "// container.querySelector('input')",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "// container.querySelector('input')",
+    "className": "cm-comment",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6screen.getByRole('button')",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6",
+    "className": "CodeMirror-gutter-wrapper",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "6",
+    "className": "CodeMirror-linenumber CodeMirror-gutter-elt",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "PRE",
+    "textContent": "screen.getByRole('button')",
+    "className": " CodeMirror-line ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "screen.getByRole('button')",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "screen",
+    "className": "cm-variable",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "getByRole",
+    "className": "cm-property",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "'button'",
+    "className": "cm-string",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "CodeMirror-gutters",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "CodeMirror-gutter CodeMirror-linenumbers",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SECTION",
+    "textContent": "> <button\n  type=\"submit\"\n>\n  Submit\n</button>",
+    "className": "flex w-full flex-none justify-between px-4 py-2 collapsed items-center query-result z-10 bg-gray-800 font-mono text-xs text-gray-100",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "> <button\n  type=\"submit\"\n>\n  Submit\n</button>",
+    "className": "truncate direction mr-8 flex w-full justify-between",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "BUTTON",
+    "textContent": "",
+    "className": "pointer focus:outline-none flex inline-flex items-center justify-center rounded-full text-gray-500 hover:text-gray-400 bg-inherit",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "svg",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "path",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "suggested query> getByRole('button', { name: /submit/i })There is one thing though. You could make the query a bit more specific by adding the name option.1. Queries Accessible to EveryoneRolebuttonLabelTextn/aPlaceholderTextn/aTextsubmitDisplayValuen/a2. Semantic QueriesAltTextn/aTitlen/a3. Test IDsTestIdn/a",
+    "className": "h-56 flex-auto overflow-hidden md:h-full",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "suggested query> getByRole('button', { name: /submit/i })There is one thing though. You could make the query a bit more specific by adding the name option.1. Queries Accessible to EveryoneRolebuttonLabelTextn/aPlaceholderTextn/aTextsubmitDisplayValuen/a2. Semantic QueriesAltTextn/aTitlen/a3. Test IDsTestIdn/a",
+    "className": "flex h-full w-full flex-col overflow-hidden",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "absolute flex h-full w-full flex-auto flex-col items-center justify-center overflow-hidden",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "item-center flex h-48 w-full overflow-hidden",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "IMG",
+    "textContent": "",
+    "className": "max-h-full min-h-0 flex-auto resize object-contain opacity-50",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "Toastify",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "NOSCRIPT",
+    "textContent": "You need JavaScript to run this app.",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SCRIPT",
+    "textContent": "",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "REACH-PORTAL",
+    "textContent": "NewSaveForkShareEmbed",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "NewSaveForkShareEmbed",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "NewSaveForkShareEmbed",
+    "className": "shadow rounded focus:outline-none bg-white py-2",
+    "id": "menu--1",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "New",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "BUTTON",
+    "textContent": "New",
+    "className": "whitespace-no-wrap focus:outline-none flex w-full justify-start space-x-2 px-4 py-2 text-sm hover:bg-blue-200",
+    "id": "option-0--menu--1",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "svg",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "path",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "New",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "Save",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "BUTTON",
+    "textContent": "Save",
+    "className": "whitespace-no-wrap focus:outline-none flex w-full justify-start space-x-2 px-4 py-2 text-sm hover:bg-blue-200",
+    "id": "option-1--menu--1",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "svg",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "path",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "Save",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "Fork",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "BUTTON",
+    "textContent": "Fork",
+    "className": "whitespace-no-wrap focus:outline-none flex w-full justify-start space-x-2 px-4 py-2 text-sm hover:bg-blue-200",
+    "id": "option-2--menu--1",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "svg",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "path",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "Fork",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "border-b mx-4 my-2 border-gray-200",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "Share",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "BUTTON",
+    "textContent": "Share",
+    "className": "whitespace-no-wrap focus:outline-none flex w-full justify-start space-x-2 px-4 py-2 text-sm hover:bg-blue-200",
+    "id": "option-3--menu--1",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "svg",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "path",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "Share",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "Embed",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "BUTTON",
+    "textContent": "Embed",
+    "className": "whitespace-no-wrap focus:outline-none flex w-full justify-start space-x-2 px-4 py-2 text-sm hover:bg-blue-200",
+    "id": "option-4--menu--1",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "svg",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "path",
+    "textContent": "",
+    "className": {},
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "Embed",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "REACH-PORTAL",
+    "textContent": "BehaviorAuto-run codeTesting-Librarytest-id attribute:",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "BehaviorAuto-run codeTesting-Librarytest-id attribute:",
+    "className": "shadow rounded focus:outline-none bg-white px-4 py-2 py-2 text-sm text-sm",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "BehaviorAuto-run codeTesting-Librarytest-id attribute:",
+    "className": "settings pb-2 text-sm ",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "FORM",
+    "textContent": "BehaviorAuto-run codeTesting-Librarytest-id attribute:",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "BehaviorAuto-run code",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "H3",
+    "textContent": "Behavior",
+    "className": "mb-2 text-sm font-bold",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "LABEL",
+    "textContent": "Auto-run code",
+    "className": "flex items-center space-x-4",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "react-toggle react-toggle--checked",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "react-toggle-track",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "react-toggle-track-check",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "react-toggle-track-x",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "react-toggle-thumb",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "INPUT",
+    "textContent": "",
+    "className": "react-toggle-screenreader-only",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "SPAN",
+    "textContent": "Auto-run code",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "border-b my-4 border-gray-300",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "Testing-Librarytest-id attribute:",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "H3",
+    "textContent": "Testing-Library",
+    "className": "mb-2 text-sm font-bold",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "LABEL",
+    "textContent": "test-id attribute:",
+    "className": "text-xs",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "INPUT",
+    "textContent": "",
+    "className": "focus:outline-none border rounded block w-full appearance-none bg-white px-3 py-2 leading-tight text-gray-800 focus:border-blue-400",
+    "id": "test-id",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "REACH-PORTAL",
+    "textContent": "GitHubSupport UsTwitterChrome ExtensionIntroductionQuery PriorityCommon Mistakes",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "GitHubSupport UsTwitterChrome ExtensionIntroductionQuery PriorityCommon Mistakes",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "GitHubSupport UsTwitterChrome ExtensionIntroductionQuery PriorityCommon Mistakes",
+    "className": "shadow rounded focus:outline-none bg-white py-2",
+    "id": "menu--3",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "GitHub",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "A",
+    "textContent": "GitHub",
+    "className": "whitespace-no-wrap focus:outline-none flex w-full justify-start space-x-2 px-4 py-2 text-sm hover:bg-blue-200",
+    "id": "option-0--menu--3",
+    "href": "https://github.com/testing-library/testing-playground/issues"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "Support Us",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "A",
+    "textContent": "Support Us",
+    "className": "whitespace-no-wrap focus:outline-none flex w-full justify-start space-x-2 px-4 py-2 text-sm hover:bg-blue-200",
+    "id": "option-1--menu--3",
+    "href": "https://github.com/sponsors/smeijer"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "Twitter",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "A",
+    "textContent": "Twitter",
+    "className": "whitespace-no-wrap focus:outline-none flex w-full justify-start space-x-2 px-4 py-2 text-sm hover:bg-blue-200",
+    "id": "option-2--menu--3",
+    "href": "https://twitter.com/meijer_s"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "border-b mx-4 my-2 border-gray-200",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "Chrome Extension",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "A",
+    "textContent": "Chrome Extension",
+    "className": "whitespace-no-wrap focus:outline-none flex w-full justify-start space-x-2 px-4 py-2 text-sm hover:bg-blue-200",
+    "id": "option-3--menu--3",
+    "href": "https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "",
+    "className": "border-b mx-4 my-2 border-gray-200",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "Introduction",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "A",
+    "textContent": "Introduction",
+    "className": "whitespace-no-wrap focus:outline-none flex w-full justify-start space-x-2 px-4 py-2 text-sm hover:bg-blue-200",
+    "id": "option-4--menu--3",
+    "href": "https://testing-library.com/docs/dom-testing-library/intro"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "Query Priority",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "A",
+    "textContent": "Query Priority",
+    "className": "whitespace-no-wrap focus:outline-none flex w-full justify-start space-x-2 px-4 py-2 text-sm hover:bg-blue-200",
+    "id": "option-5--menu--3",
+    "href": "https://testing-library.com/docs/guide-which-query"
+  },
+  {
+    "tagName": "DIV",
+    "textContent": "Common Mistakes",
+    "className": "Brak klasy",
+    "id": "Brak ID",
+    "href": "Brak linku"
+  },
+  {
+    "tagName": "A",
+    "textContent": "Common Mistakes",
+    "className": "whitespace-no-wrap focus:outline-none flex w-full justify-start space-x-2 px-4 py-2 text-sm hover:bg-blue-200",
+    "id": "option-6--menu--3",
+    "href": "https://kentcdodds.com/blog/common-mistakes-with-react-testing-library"
+  }
+]

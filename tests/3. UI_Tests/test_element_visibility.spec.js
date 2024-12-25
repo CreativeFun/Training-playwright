@@ -7,17 +7,20 @@ test('Check visibility of main elements on Testing Playground', async ({ page })
   // Found elements
   const header = page.locator('h1'); 
   const form = page.locator('form'); // Formularz, jeśli istnieje
+  const html = page.locator('html');
 
   // **Expected** values
   const expected = {
     header: true,
-    form: false
+    form: false,
+    html: true,
   };
 
   // **Actual** values
   const actual = {
     header: await header.isVisible(), 
     form: await form.isVisible(), 
+    html: await html.isVisible(), 
   };
 
 

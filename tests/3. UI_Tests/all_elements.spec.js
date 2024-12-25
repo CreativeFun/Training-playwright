@@ -1,8 +1,12 @@
 import { test, expect } from '@playwright/test';
+import fs from 'fs';  // Importujemy moduł do pracy z plikami
 
 test('Check visibility and list elements', async ({ page }) => {
   // Ładujemy stronę
   await page.goto('/'); // Zmień na odpowiedni URL
+
+  // Poczekaj na załadowanie strony (np. czekaj na obecność <h1>)
+  await page.waitForSelector('h1'); // Poczekaj na h1
 
   // Pobieramy wszystkie elementy na stronie
   const elements = await page.$$('*');
@@ -30,6 +34,12 @@ test('Check visibility and list elements', async ({ page }) => {
     elementDetails.push(elementInfo);
   }
 
-  // Wypisujemy szczegóły w uporządkowany sposób
-  console.log(JSON.stringify(elementDetails, null, 2));
+  // Konwertujemy dane do formatu JSON i zapisujemy je do pliku
+  const jsonString = JSON.stringify(elementDetails, null, 2);  // Uporządkowany format JSON
+
+  // Zapisujemy dane do pliku
+  fs.writeFileSync('elementDetails.json', jsonString, 'utf8');
+  
+  console.log('Dane zostały zapisane do pliku elementDetails.json');
+  console.log('Zmieniona wersja');
 });
