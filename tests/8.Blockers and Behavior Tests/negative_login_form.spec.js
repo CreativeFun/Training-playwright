@@ -8,11 +8,10 @@ test('Verify if an error message appears on the page when the user submits incor
   await page.locator('iframe[title="sandbox"]').contentFrame().getByPlaceholder('Password').fill('passwrod');
   await page.locator('iframe[title="sandbox"]').contentFrame().getByPlaceholder('Enter email').press('Enter');
 
-  // Example: Wait for the user to be redirected to the dashboard or homepage
-  await page.waitForURL('/'); // Replace with the URL of the page after successful login
-
-  await page.screenshot({ path: 'logged_in_state.png' });
+//   const errorMessage = page.locator('iframe[title="sandbox"]').contentFrame().locator('text=Please include an "@" in the email address. "exampleexample.com" is missing an "@"');
+//   await expect(errorMessage).toBeVisible();
 
 
+  await page.screenshot({ path: 'error_login_state.png' });
   // TBD
 });
