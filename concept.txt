@@ -108,7 +108,7 @@ Verify if clicking on table headers correctly sorts the data in ascending or des
 Test blocking elements
 Check if clicking the "Block" button on the page disables specific elements or functions.
 
-Test error message display
+Negative Login Form
 Verify if an error message appears on the page when the user submits incorrect data in a form.
 
 9. Dynamic Elements and Scrolling Tests
