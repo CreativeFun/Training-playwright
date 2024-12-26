@@ -1,1 +1,6 @@
 npx playwright test tests/3.\ UI_Tests/test_element_visibility.spec.js
+
+--headed poakzuje okno przeglądarki
+
+Debugowanie selektorów
+npx playwright codegen https://testing-playground.com/
